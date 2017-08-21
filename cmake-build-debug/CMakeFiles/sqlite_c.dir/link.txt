@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/sqlite_c.dir/main.c.o  -o sqlite_c /usr/lib/x86_64-linux-gnu/libsqlite3.so 

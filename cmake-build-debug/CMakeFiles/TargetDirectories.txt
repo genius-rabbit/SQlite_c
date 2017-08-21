@@ -1,0 +1,3 @@
+/home/geniusrabbit/CLionProjects/MyCode/sqlite_c/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/geniusrabbit/CLionProjects/MyCode/sqlite_c/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/geniusrabbit/CLionProjects/MyCode/sqlite_c/cmake-build-debug/CMakeFiles/sqlite_c.dir
