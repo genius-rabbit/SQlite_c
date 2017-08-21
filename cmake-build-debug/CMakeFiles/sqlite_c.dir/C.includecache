@@ -9,8 +9,8 @@
 /home/geniusrabbit/CLionProjects/MyCode/sqlite_c/main.c
 sqlite3.h
 -
-stdlib.h
--
 stdio.h
+-
+string.h
 -
 
